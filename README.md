@@ -6,4 +6,9 @@ When a doctor suspects a cancer in a patient, probably the first thing he does i
 2.He searches for evidence in the medical literature that somehow are relevant to the genetic variations of interest.
 3.Finally the molecular pathologist spends a huge amount of time analyzing the evidence related to each of the variations to classify them.
 
-The goal of our project is to replace step 3 by a machine learning model. The molecular pathologist will still have to decide which variations are of interest, and also collect the relevant evidence for them. But the last step, which is also the most time consuming, will be fully automated. So, let us learn how to apply the multi-class classification technique of machine learning to aid the doctor in his analysis of the cancer patient. We are going to use logistic regression for our model.
+The goal of our project is to replace step 3 by a machine learning model. The molecular pathologist will still have to decide which variations are of interest, and also collect the relevant evidence for them. But the last step, which is also the most time consuming, will be fully automated. So, let us learn how to apply the multi-class classification technique of machine learning to aid the doctor in his analysis of the cancer patient. 
+
+We are going to use logistic regression for our model.
+
+#Dataset used
+https://www.kaggle.com/c/msk-redefining-cancer-treatment/data
